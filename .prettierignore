@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+dist
+build
+coverage
+.env*.local
+eslint.config.mjs
+.prettierrc
+.prettierignore
+postcss.config.mjs
+next.config.ts
